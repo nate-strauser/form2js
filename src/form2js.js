@@ -25,7 +25,7 @@
  */
 
 
-var form2js = (function()
+form2js = (function()
 {
 	"use strict";
 
